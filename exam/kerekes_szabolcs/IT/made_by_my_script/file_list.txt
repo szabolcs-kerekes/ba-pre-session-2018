@@ -1,0 +1,5 @@
+total 8
+drwxr-xr-x  4 szabolcskerekes  staff  128 14 Sep 09:47 .
+drwxr-xr-x  4 szabolcskerekes  staff  128 14 Sep 09:47 ..
+-rw-r--r--  1 szabolcskerekes  staff    0 14 Sep 09:47 file_list.txt
+-rw-r--r--  1 szabolcskerekes  staff   13 14 Sep 09:47 hello.txt
